@@ -1,0 +1,8 @@
+print ("Frequently Asked Questions")
+print ("\nQ: Why are people donating to one project and not the other? How can I get them to donate to other portions of my product?")
+print ("\nA: You can add caps to a certain donation field and remove them when other projects reach a certain amoumnt")
+print (" ")
+print ("\nQ: Where should I put this in my program?")
+print ("\nA: It is recommended to put it in a startup screen or about page. On websites, it should be placed in a separate donate page")
+print (" ")
+noMore = input("Press [ENTER] key to continue")

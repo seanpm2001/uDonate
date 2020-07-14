@@ -1,0 +1,7 @@
+print ("Connection")
+print ("\nYou can receive your money on projects through multiple online funding programs at once, such as: ")
+print ("* Paypal")
+print ("* Patreon")
+print ("* Gofundme")
+print ("* Kickstarter")
+noMore = input("Press [ENTER] key to quit")
